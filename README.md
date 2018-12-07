@@ -21,3 +21,4 @@ Execute the test case TheDummyFlightCompany.jmx and provide the performance numb
 ##### datapool.csv contains the test data
 ##### results.csv contains the test result
 ##### analysis.docx contains the test result analysis
+##### SLA-metrics.csv contains SLA metrics in ms
