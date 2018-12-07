@@ -1,4 +1,4 @@
-### jmeter test the performace of TheDummyFlightCompany ![Jmeter Logo](apachejmeter_0.jpg) 
+### TheDummyFlightCompany performance test with: ![Jmeter Logo](apachejmeter_0.jpg) 
 
 **Task 1**
 Record the following scenario using Jmeter(Task1.jmx)
