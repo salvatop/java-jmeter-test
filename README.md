@@ -1,11 +1,9 @@
-# jmeter-test
+# jmeter test the performace of TheDummyFlightCompany ![Jmeter Logo](apachejmeter_0.jpg) 
 
-Test the performace of TheDummyFlightCompany 
-
-Task 1
+**Task 1**
 Record the following scenario using Jmeter(Task1.jmx)
 
-Scenario:
+*Scenario*:
    - Navigate to http://www.TheDummyFlightCompany.com/
    - Use username/password as user/pass and click login
    - Select current date in flight departing and returning date and Click Continue of Flight finder screen.
@@ -13,7 +11,7 @@ Scenario:
    - Fill firstname, lastname and number and click secure purchase.
    - Click logout.
 
-Task 2
+**Task 2**
 Execute the test case Task1.jmx and provide the performance numbers and analysis report for the following scenario:
 
         - Incorporate use of multiple users for login, name of the user and random selection of the flights for the execution.
